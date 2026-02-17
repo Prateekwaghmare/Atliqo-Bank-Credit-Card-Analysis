@@ -141,6 +141,9 @@ All conclusions were supported by structured statistical testing to avoid observ
 ---
 
 ## 📁 Repository Structure
+## 📁 Repository Structure
+
+```
 atliqo-bank-credit-card-analysis/
 │
 ├── datasets/
@@ -162,8 +165,7 @@ atliqo-bank-credit-card-analysis/
 │
 ├── README.md
 └── requirements.txt
-
-
+```
 
 ---
 
