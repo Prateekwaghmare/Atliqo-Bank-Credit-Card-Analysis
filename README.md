@@ -141,11 +141,12 @@ All conclusions were supported by structured statistical testing to avoid observ
 ---
 
 ## 📁 Repository Structure
-Atliqo-Bank-Credit-Card-Analysis/
+atliqo-bank-credit-card-analysis/
 │
-├── data/
-│   ├── raw/
-│   └── processed/
+├── datasets/
+│   ├── avg_transactions_after_campaign.csv
+│   ├── credit_profiles.csv
+│   └── customers.csv
 │
 ├── images/
 │   ├── Phase_1_Output_analysis.png
@@ -153,10 +154,15 @@ Atliqo-Bank-Credit-Card-Analysis/
 │   └── analysis.png
 │
 ├── notebooks/
-│   └── Phase_1_AtliQ_Bank.ipynb
-│   └── Phase_2_AtliQ_Bank.ipynb
+│   ├── Phase_1_AtliQ_Bank.ipynb
+│   └── Phase_2_AtliQo_Bank.ipynb
+│
+├── presentation/
+│   └── AtliQo-Bank-Credit-Card-Launch-Analysis.pdf
+│
 ├── README.md
 └── requirements.txt
+
 
 
 ---
